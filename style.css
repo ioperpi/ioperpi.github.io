@@ -46,8 +46,24 @@ section{
   font-size:1.4rem;
   color: #666;
 }
+
 .content-header .list-details .icon{
   color: #666;
   font-size: .8rem;
   margin-right: .1rem;
 }
+
+.company-header{
+    font-weight: 400;
+}
+
+.company-header .company{
+    font-size: 1.8rem;
+    margin:0;
+    color:#444;
+}
+
+.content-header .subtitle{
+    font-size:1.4rem;
+    color: #666;
+  }
