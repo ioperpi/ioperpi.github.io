@@ -1,0 +1,66 @@
+:root {
+    --background: #fafafa;
+    --light: #eeeeee;
+    --color: #dddddd;
+    --light: #efefef;
+    --dark: #cfcfcf;
+    --shadow: 0.5rem;
+    --roundness: 2rem;
+    --padding: 2rem;
+}
+
+body {
+    background: var(--background);
+    padding: 2rem;
+    font-family: "Alegreya", sans-serif;
+}
+
+section {
+    display: flex;
+    border-bottom: solid 1px var(--light);
+    padding: 2rem 0;
+    align-items: start;
+
+    h1 {
+        font-weight: 300;
+    }
+
+    h2 {
+        width: 20%;
+        min-width: 20%;
+        font-size: 1.3rem;
+    }
+
+    .content {
+        flex-grow: 1;
+        .item {
+            margin-bottom: 2rem;
+            .header {
+                display: flex;
+                margin-bottom: 1rem;
+                .title {
+                    h3 {
+                        font-size: 1.2rem;
+                        margin-bottom: 0;
+                    }
+                    .subtitle {
+                        font-size: 0.9rem;
+                        color: #999;
+                    }
+                }
+                .date {
+                    margin-left: auto;
+                    font-size: 0.9rem;
+                    color: #666;
+                }
+            }
+            p {
+                margin-bottom: 0.2rem;
+            }
+        }
+    }
+
+    &.container {
+        max-width: 920px;
+    }
+}
