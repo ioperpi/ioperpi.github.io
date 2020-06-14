@@ -9,10 +9,8 @@ contact:
   dob: 1986/09/02
   web: https://ioperpi.github.io/
 bio: |
-  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti commodi 
-  cumque id doloribus facilis? Architecto hic officiis est harum exercitationem 
-  obcaecati corrupti, sint asperiores nisi, assumenda provident, necessitatibus 
-  accusantium optio.
+  Μηχανικός λογισμικού με πολυετή εμπειρία και εξειδίκευση σε backoffice συστήματα, τόσο στην ανάλυση απαιτήσεων όσο και στην υλοποίηση τους. Ικανή στην διαχείριση και οργάνωση μιας ομάδας αλλά και έτοιμη να γίνω ένα πολύτιμο μέλος της. Επικοινωνιακή, επιτυχάνοντας την σύγκλιση της τεχνικής ομάδας με τους πελάτες.  
+
 skills: [PHP, MSSQL, CodeIgniter, ERP Intergrations, HTML]
 experience:
   - company: Regate SA
@@ -20,7 +18,7 @@ experience:
     details:
       - Υποστήριξη και επέκταση του βασικού προϊόντος της εταιρείας. (PHP, CodeIgniter, MSSQL).
       - Διασύνδεση με συστήματα ERP, μέσω MSSQL (Galaxy, SAP, Entersoft, Softone, Atlantis).
-      - Υπεύθυνη τμήματος support, 4 ατομων. Διαχείριση, ανάθεση, και επίβλεψη αιτημάτων. (jira, ms teams)
+      - Υπεύθυνη τμήματος support, 4 ατομων. Διαχείριση, ανάθεση, και επίβλεψη αιτημάτων. (Jira, MS Teams)
       - Εκπαιδευση πελατών στο βασικο προϊόν της εταιρίας.
   - company: Travelotopos LTD
     date: 2014/11 - 2016/10
